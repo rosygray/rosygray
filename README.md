@@ -32,6 +32,26 @@
   </a>
 </p>
 
+<div class="center">
+
 | &nbsp; | project | homepage | language | stars | last commit | version
-| :---: | :--- | --- | :--- | :--- | :--- | :--- |
+| :---: | :--- | :--- | :--- | :--- | :--- | :--- |
 | <a target="_blank" href="https://github.com/rosygray"><img src="https://img.shields.io/badge/GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white&logoWidth=16" height="16px" /></a> | [rosygray](https://github.com/rosygray/rosygray) 🔥 | [`README.md`](https://github.com/rosygray/rosygray/blob/main/README.md) | ![GitHub top language](https://img.shields.io/github/languages/top/rosygray/rosygray?style=flat&logo=github) | [![GitHub stars](https://img.shields.io/github/stars/rosygray/rosygray?style=flat&logo=github)](https://github.com/rosygray/rosygray/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/rosygray/rosygray?label=last&style=flat&logo=github)](https://github.com/rosygray/rosygray/commits) | ![GitHub package version](https://img.shields.io/github/package-json/v/rosygray/rosygray/main?label=version&style=flat&logo=github)
+
+</div>
+
+
+
+<style>
+.center {
+    width: auto;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td img{
+    position: relative;
+    top: 4px;
+}
+</style>
