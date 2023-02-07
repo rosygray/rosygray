@@ -42,7 +42,7 @@
 
 
 
-<style>
+<!-- <style>
 .center {
     width: auto;
     display: table;
@@ -54,4 +54,4 @@ td img{
     position: relative;
     top: 4px;
 }
-</style>
+</style> -->
