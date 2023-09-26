@@ -32,7 +32,7 @@
   </a>
 </p> -->
 
-<div class="center" style="display:table; width:auto; margin-left:auto; margin-right:auto;">
+<div align="center">
 
 | &nbsp; | project | homepage | language | stars | last commit | version
 | :---: | :--- | :--- | :--- | :--- | :--- | :--- |
