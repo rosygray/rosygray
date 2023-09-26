@@ -32,7 +32,7 @@
   </a>
 </p> -->
 
-<div class="center">
+<div class="center" style="display:table; width:auto; margin-left:auto; margin-right:auto;">
 
 | &nbsp; | project | homepage | language | stars | last commit | version
 | :---: | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -41,7 +41,7 @@
 </div>
 
 
-
+<!-- 
 <style>
 .center {
     width: auto;
@@ -54,4 +54,4 @@ td img{
     position: relative;
     top: 4px;
 }
-</style>
+</style>  -->
