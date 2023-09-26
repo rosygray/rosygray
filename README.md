@@ -26,11 +26,11 @@
   /></a>
 </h4>
 
-<p align="center">
+<!-- <p align="center">
   <a target="_blank" href="https://github.com/rosygray/README.md/tree/main/templates/github-top-languages#gh-light-mode-only">
     <img src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=rosygray&props.background=transparent&props.count=12&props.columns=4&props.rowGap=22&props.columnGap=80&props.legendSize=6&svg.width=846&svg.height=118">
   </a>
-</p>
+</p> -->
 
 <div class="center">
 
@@ -42,7 +42,7 @@
 
 
 
-<!-- <style>
+<style>
 .center {
     width: auto;
     display: table;
@@ -54,4 +54,4 @@ td img{
     position: relative;
     top: 4px;
 }
-</style> -->
+</style>
